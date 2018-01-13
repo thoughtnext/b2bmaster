@@ -1,0 +1,26 @@
+{
+  "name": "b2b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "b": "^2.0.1",
+    "body-parser": "^1.17.2",
+    "botkit": "^0.5.8",
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "mysql": "^2.14.1",
+    "node-uuid": "^1.4.8",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "twilio": "^3.6.4"
+  }
+}
